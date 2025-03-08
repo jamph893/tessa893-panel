@@ -72,12 +72,14 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 
 
 
-
+<br>
 PROXYIP
+<br>
 密码配置：域名/secrets
-TR_PASS
-UUID
-SUB_PATH
+<br>
+TR_PASS，
+UUID，
+SUB_PATH，
 kv
 
 
