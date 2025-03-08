@@ -70,6 +70,19 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 | **FALLBACK**  | Fallback domain (VLESS, Trojan) |
 | **DOH_URL**  | Core DOH |
 
+
+
+
+PROXYIP
+密码配置：域名/secrets
+TR_PASS
+UUID
+SUB_PATH
+kv
+
+
+
+
 ---
 
 ## Stargazers Over Time
